@@ -10,7 +10,7 @@
   "dependencies": {
     "google-maps-api-loader": "^1.1.1",
     "load-google-maps-api": "^2.0.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.0",
     "vue": "^2.6.10"
   },
